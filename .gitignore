@@ -141,6 +141,10 @@ cython_debug/
 .bin/
 *.model
 
+# Ignore the following files
+model_C=1.0.bin
+ping.py
+deployment-note.ipynb
 
 
 
